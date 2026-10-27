@@ -1,0 +1,11 @@
+Generator: built-in image_gen
+Selected output: production-sheet-v1.png (2 columns x 2 rows, transparent cutouts)
+Reference 1: assets/reference/calibrated/front.png
+Reference 2: assets/reference/belly-click/keyframes-v1.png
+
+Production animation sprite assets, 2 columns x 2 rows, four identical full-body yellow Nailong characters on TRANSPARENT EMPTY BACKGROUND. Reference 1 is the exact required character, camera, proportions, texture and neutral pose. Reference 2 is only the action reference. Keep reference 1 face, head, feet and belly shape EXACTLY. All four FRONT facing, same scale, feet on same local baseline in each cell, no turns.
+Top left: elbows slightly bent, both hands moved up from sides of body toward lower belly sides.
+Top right: elbows bent, both hands touching outer front belly, wide space between hands.
+Bottom left: both forearms reach inward, brown hands over front of white belly, small space between fingertips.
+Bottom right: settled final pose, both brown palms resting flat against front center-lower white belly, fingers point toward each other and almost meet, elbows bent naturally.
+Exactly two arms, two hands. Soft 3D movie shading ONLY ON THE CHARACTER. Crisp isolated cutout sprites. Absolutely NO environment, backdrop, light glow, gold haze, floor, cast shadow, text, labels, frames or checkerboard. The space between and around figures must be truly empty transparent alpha zero. Four separate isolated full bodies on one 2x2 sprite sheet.

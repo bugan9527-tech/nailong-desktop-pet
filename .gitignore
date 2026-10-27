@@ -1,0 +1,27 @@
+# Local SDK, dependency caches and build output
+.tools/
+**/bin/
+**/obj/
+dist/
+artifacts/
+
+# IDE and operating system files
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+Thumbs.db
+Desktop.ini
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key

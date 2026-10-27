@@ -1,0 +1,18 @@
+Generator: built-in image_gen
+Purpose: Six-keyframe concept sheet for belly-click hands-inward action. Preview only; not wired into the runtime animation.
+Output: keyframes-v1.png
+Note: Transparency was requested; the generated preview visibly includes a warm studio background. Treat this as a pose reference, not a finished transparent sprite sheet.
+
+Use case: stylized-concept
+Asset type: animation keyframe contact sheet for the existing Nailong desktop pet.
+Input image 1 is the authoritative FRONT character identity reference. Input image 2 is only a supporting reference for material, anatomy, and how the small brown hands touch the belly; DO NOT copy the side-view camera or turned head.
+Primary request: Draw SIX successive full-body animation keyframes for this exact yellow Nailong character responding to a click on its belly by drawing BOTH hands inward to rest at the FRONT of its belly. Create one clean contact sheet in a strict 3 columns by 2 rows grid, chronological order left to right on top row, then left to right on bottom row. Every frame occupies an equally sized cell with generous padding. Transparent background, no visible panel borders.
+Poses:
+Frame 1 top left: exact relaxed frontal idle pose from image 1, both arms hanging at sides.
+Frame 2 top middle: small startled anticipation, shoulders raised very slightly and elbows just begin bending, hands still near lower sides of belly; eyes slightly alert but face recognizable.
+Frame 3 top right: both elbows clearly bend, forearms swing upward and inward, hands reach the outer front sides of the cream belly, leaving a wide gap between them.
+Frame 4 bottom left: forearms continue curving inward across the lower front belly, both palms now face the belly, hands separated by a modest visible central gap.
+Frame 5 bottom middle: both short rounded brown hands are resting on the FRONT center-lower cream belly, fingertips point toward each other and nearly meet, elbows comfortably bent outward; clear symmetrical protective belly-holding gesture, no crossed arms, no clasped hands.
+Frame 6 bottom right: settled held pose, both hands remain at the FRONT belly, shoulders relax down very slightly, a gentle familiar smile.
+Identity and style constraints: match image 1 closely: same small rounded head seamlessly joining neck and shoulder, glossy large round dark eyes and gray-brown rims, short subtle muzzle and curved smile, plump pear-shaped yellow body, large creamy white belly patch following the round volume, thick short yellow arms with small darker brown mittenlike hands and rounded fingers, short legs and rounded toes. Fine soft textured yellow skin, polished 3D animated film character render, same warm soft studio lighting and natural shading. No fur strands. Do not redesign character.
+Continuity constraints: EXACT same frontal camera, fixed scale, body width, belly size, head proportions, eye placement, foot spacing, feet baseline within each cell in all six frames. Both feet stay planted facing viewer; body does not rotate. Main motion in arms and hands only, very subtle upper-body anticipation. Full body visible without cropping, keep all hands separate and anatomically clear; exactly two arms and two hands. No human hand, cursor, click icon, motion blur, arrows, text, captions, numbers, watermark, props, scenery or floor plane. Real alpha transparency. This is a production pose study of ONE character at six times, not six different character designs.
